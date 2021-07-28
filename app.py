@@ -1,29 +1,41 @@
-from flask import Flask, render_template, request, redirect, url_for
+# This program predicts what type of skin condition you may have
 
-app = Flask(__name__)
+import pandas as pd
+from sklearn.metrics import accuracy_score
+from sklearn.model_selection import train_test_split
+# from sklearn.ensemble import SVC
+from PIL import Image
+import streamlit as st
 
+# Title and subtitle
+st.write("""
+# Skin Condition
+Detect which type of skin condition you may have
+""")
 
-@app.route('/', methods=['GET', 'POST'])
-def login():
-    req_type = request.method
-    if req_type == 'GET':
-        return render_template('login.html')
-    else:
-        un = request.form('username')
-        pw = request.form('password')
-        if un == 'admin' & pw == 'admin':
-            return render_template('index.html')
+# Open and display image
+image = Image.open('checking-skin.jpg')
+st.image(image, caption='Are you wondering what your skin is telling you?', use_column_width=True)
 
+# Get the data
+df = pd.read_csv('dataset.csv')
 
-@app.route('/form', methods=['GET', 'POST'])
-def index():
-    return render_template('index.html')
+# Set the subheader
+st.subheader('Data Info')
 
+# Show data as table
+st.dataframe(df)
 
-@app.route('/visuals')
-def visuals():
-    return render_template('visuals.html')
+# # Show statistics on the data
+# st.write(df.describe())
+#
+# # Show the data as chart
+# chart = st.bar_chart(df)
 
+options = st.multiselect(
+    'What are your favorite colors',
+     ['Green', 'Yellow', 'Red', 'Blue'],
+     ['Yellow', 'Red'])
 
-if __name__ == '__main__':
-    app.run()
+st.write('You selected:', options)
+
