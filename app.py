@@ -18,24 +18,42 @@ image = Image.open('checking-skin.jpg')
 st.image(image, caption='Are you wondering what your skin is telling you?', use_column_width=True)
 
 # Get the data
-df = pd.read_csv('dataset.csv')
+df = pd.read_csv('skin_data1.csv')
 
 # Set the subheader
-st.subheader('Data Info')
+st.subheader('   ')
 
-# Show data as table
-st.dataframe(df)
 
-# # Show statistics on the data
-# st.write(df.describe())
-#
-# # Show the data as chart
-# chart = st.bar_chart(df)
+# subheader for sidebar
+st.sidebar.write("""
+# Symptoms 
+""")
 
-options = st.multiselect(
-    'What are your favorite colors',
-     ['Green', 'Yellow', 'Red', 'Blue'],
-     ['Yellow', 'Red'])
 
-st.write('You selected:', options)
+skin = st.sidebar.multiselect(
+    'Skin',
+     ['nodal skin ruptures', 'discolored patches', 'blackheads', 'puss-filled pimples', 'scurring', 'peeling', 'dusting'],
+     )
+
+body = st.sidebar.multiselect(
+    'Body & Lifestyle',
+    ['joint pain', 'stomach pain', 'spotty urination', 'burning urination', 'loss of appetite', 'malaise', 'lymph nodes']
+)
+
+irritation = st.sidebar.multiselect(
+    'Irritation',
+    ['itching', 'rash', 'blister', 'red nose sore', 'yellow crust', 'red spots all over']
+)
+
+nails = st.sidebar.multiselect(
+    'Nails',
+    ['dents in nail', 'inflamed nail']
+)
+
+head = st.sidebar.multiselect(
+    'Head & Cognitive',
+    ['fatigue', 'lethargy', 'headache', 'mild fever', 'high fever']
+)
+
+#st.write('You selected:', options)
 
