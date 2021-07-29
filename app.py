@@ -29,31 +29,57 @@ st.sidebar.write("""
 # Symptoms 
 """)
 
+def get_symptoms():
 
-skin = st.sidebar.multiselect(
-    'Skin',
-     ['nodal skin ruptures', 'discolored patches', 'blackheads', 'puss-filled pimples', 'scurring', 'peeling', 'dusting'],
-     )
+    selected = []
+    skin = st.sidebar.multiselect(
+        'Skin',
+         ['nodal skin ruptures', 'discolored patches', 'blackheads', 'puss-filled pimples', 'scurring', 'peeling', 'dusting'],
+         )
 
-body = st.sidebar.multiselect(
-    'Body & Lifestyle',
-    ['joint pain', 'stomach pain', 'spotty urination', 'burning urination', 'loss of appetite', 'malaise', 'lymph nodes']
-)
+    body = st.sidebar.multiselect(
+        'Body & Lifestyle',
+        ['joint pain', 'stomach pain', 'spotty urination', 'burning urination', 'loss of appetite', 'malaise', 'lymph nodes']
+    )
 
-irritation = st.sidebar.multiselect(
-    'Irritation',
-    ['itching', 'rash', 'blister', 'red nose sore', 'yellow crust', 'red spots all over']
-)
+    irritation = st.sidebar.multiselect(
+        'Irritation',
+        ['itching', 'rash', 'blister', 'red nose sore', 'yellow crust', 'red spots all over']
+    )
 
-nails = st.sidebar.multiselect(
-    'Nails',
-    ['dents in nail', 'inflamed nail']
-)
+    nails = st.sidebar.multiselect(
+        'Nails',
+        ['dents in nail', 'inflamed nail']
+    )
 
-head = st.sidebar.multiselect(
-    'Head & Cognitive',
-    ['fatigue', 'lethargy', 'headache', 'mild fever', 'high fever']
-)
+    head = st.sidebar.multiselect(
+        'Head & Cognitive',
+        ['fatigue', 'lethargy', 'headache', 'mild fever', 'high fever']
+    )
 
-#st.write('You selected:', options)
+    # store a dictionary of the symptoms into a variable
+    # symp_dict = {
+    #     'skin': skin,
+    #     'body': body,
+    #     'irritation': irritation,
+    #     'nails': nails,
+    #     'head': head
+    # }
+
+    selected.append(skin)
+    selected.append(body)
+    selected.append(irritation)
+    selected.append(nails)
+    selected.append(head)
+
+
+    # turn data into dataframe
+    symptom_df = pd.DataFrame(selected, index=[0])
+    return symptom_df
+
+# Store user input into variable
+user_input = get_symptoms()
+
+
+
 
