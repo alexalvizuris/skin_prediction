@@ -20,10 +20,13 @@ image = Image.open('checking-skin.jpg')
 st.image(image, caption='Are you wondering what your skin is telling you?', use_column_width=True)
 
 # Get the data
-df = pd.read_csv('skin_data1.csv')
+df = pd.read_csv('skin_dataframe_with_numbers.csv')
+
+# Drop the excess symptom columns
+df.drop(['Symptom_12', 'Symptom_13', 'Symptom_14', 'Symptom_15', 'Symptom_16', 'Symptom_17'], axis=1)
 
 # Split the data
-data = df.iloc[:,1:].values
+data = df.iloc[:, 1:].values
 labels = df['Disease'].values
 
 # Train and test the data
@@ -71,67 +74,67 @@ def get_symptoms():
     for i in skin:
         selected.append(i)
         if i == 'nodal skin ruptures':
-            numeric.append(4)
-        if i == 'discolored patches':
-            numeric.append(0)
-        if i == 'blackheads':
-            numeric.append(2)
-        if i == 'puss-filled pimples':
-            numeric.append(2)
-        if i == 'scurring':
-            numeric.append(2)
-        if i == 'peeling':
             numeric.append(3)
+        if i == 'discolored patches':
+            numeric.append(103)
+        if i == 'blackheads':
+            numeric.append(124)
+        if i == 'puss-filled pimples':
+            numeric.append(123)
+        if i == 'scurring':
+            numeric.append(125)
+        if i == 'peeling':
+            numeric.append(126)
         if i == 'dusting':
-            numeric.append(2)
+            numeric.append(127)
     for j in body:
         selected.append(j)
         if j == 'joint pain':
-            numeric.append(3)
+            numeric.append(7)
         if j == 'stomach pain':
-            numeric.append(5)
+            numeric.append(8)
         if j == 'spotty urination':
-            numeric.append(0)
+            numeric.append(14)
         if j == 'burning urination':
-            numeric.append(6)
+            numeric.append(13)
         if j == 'loss of appetite':
-            numeric.append(4)
+            numeric.append(36)
         if j == 'malaise':
-            numeric.append(6)
+            numeric.append(49)
         if j == 'lymph nodes':
-            numeric.append(6)
+            numeric.append(48)
     for k in irritation:
         selected.append(k)
         if k == 'itching':
             numeric.append(1)
         if k == 'rash':
-            numeric.append(3)
-        if k == 'blister':
-            numeric.append(4)
-        if k == 'red nose sore':
             numeric.append(2)
+        if k == 'blister':
+            numeric.append(130)
+        if k == 'red nose sore':
+            numeric.append(131)
         if k == 'yellow crust':
-            numeric.append(3)
+            numeric.append(132)
         if k == 'red spots all over':
-            numeric.append(3)
+            numeric.append(100)
     for l in nails:
         selected.append(l)
         if l == 'dents in nail':
-            numeric.append(2)
+            numeric.append(128)
         if l == 'inflamed nail':
-            numeric.append(2)
+            numeric.append(129)
     for m in head:
         selected.append(m)
         if m == 'fatigue':
-            numeric.append(4)
+            numeric.append(15)
         if m == 'lethargy':
-            numeric.append(2)
+            numeric.append(22)
         if m == 'headache':
-            numeric.append(3)
+            numeric.append(32)
         if m == 'mild fever':
-            numeric.append(5)
+            numeric.append(42)
         if m == 'high fever':
-            numeric.append(7)
+            numeric.append(26)
 
     while len(numeric) < 11:
         numeric.append(0)
@@ -145,17 +148,24 @@ def get_symptoms():
     symptom_df = pd.DataFrame(symp_np, index=[0])
     return symptom_df
 
+
 # Store user input into variable
 user_input = get_symptoms()
+
+# create submit button for symptoms
+result = st.sidebar.button('submit')
 
 # # import model
 svc_model = SVC()
 svc_model.fit(x_train, y_train)
 
-preds = svc_model.predict(user_input)
-print(preds)
+# if button is selected, write prediction of symptoms
+if result:
+    preds = svc_model.predict(user_input)
+    st.sidebar.write('You probably have:', preds)
 
-st.write('You probably have:', preds)
+
+
 
 
 
