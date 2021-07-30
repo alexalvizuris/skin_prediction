@@ -1,721 +1,721 @@
-,Disease,Symptom_1,Symptom_2,Symptom_3,Symptom_4,Symptom_5,Symptom_6,Symptom_7,Symptom_8,Symptom_9,Symptom_10,Symptom_11,Symptom_12,Symptom_13,Symptom_14,Symptom_15,Symptom_16,Symptom_17
-0,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-1,Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2,Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-3,Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4,Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-5,Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-6,Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-7,Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-8,Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-9,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-40,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-41,Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-42,Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-43,Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-44,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0,0,0,0,0,0,0
-45,Drug Reaction,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-46,Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-47,Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-48,Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-49,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0,0,0,0,0,0,0
-160,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-161,Chicken pox,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-162,Chicken pox,itching,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-163,Chicken pox,itching,skin_rash,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-164,Chicken pox,itching,skin_rash,fatigue,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-165,Chicken pox,itching,skin_rash,fatigue,lethargy,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-166,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-167,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-168,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-169,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,malaise,red_spots_over_body,0,0,0,0,0,0,0
-370,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-371,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-372,Acne,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-373,Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-374,Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-375,Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-376,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-377,Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-378,Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-379,Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-390,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-391,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-392,Psoriasis,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-393,Psoriasis,skin_rash,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-394,Psoriasis,skin_rash,joint_pain,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-395,Psoriasis,skin_rash,joint_pain,skin_peeling,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-396,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-397,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,0,0,0,0,0,0,0,0,0,0,0,0
-398,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-399,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-400,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-401,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-402,Impetigo,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-403,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-404,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-405,Impetigo,skin_rash,high_fever,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-406,Impetigo,skin_rash,high_fever,blister,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-407,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,0,0,0,0,0,0,0,0,0,0,0,0,0
-408,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-409,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-410,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-411,Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-412,Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-413,Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-414,Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-415,Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-416,Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-417,Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-418,Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-419,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-450,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-451,Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-452,Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-453,Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-454,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0,0,0,0,0,0,0
-455,Drug Reaction,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-456,Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-457,Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-458,Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-459,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0,0,0,0,0,0,0
-570,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-571,Chicken pox,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-572,Chicken pox,itching,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-573,Chicken pox,itching,skin_rash,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-574,Chicken pox,itching,skin_rash,fatigue,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-575,Chicken pox,itching,skin_rash,fatigue,lethargy,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-576,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-577,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-578,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-579,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,malaise,red_spots_over_body,0,0,0,0,0,0,0
-780,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-781,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-782,Acne,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-783,Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-784,Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-785,Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-786,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-787,Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-788,Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-789,Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-800,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-801,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-802,Psoriasis,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-803,Psoriasis,skin_rash,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-804,Psoriasis,skin_rash,joint_pain,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-805,Psoriasis,skin_rash,joint_pain,skin_peeling,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-806,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-807,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,0,0,0,0,0,0,0,0,0,0,0,0
-808,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-809,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-810,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-811,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-812,Impetigo,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-813,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-814,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-815,Impetigo,skin_rash,high_fever,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-816,Impetigo,skin_rash,high_fever,blister,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-817,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,0,0,0,0,0,0,0,0,0,0,0,0,0
-818,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-819,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-820,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-821,Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-822,Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-823,Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-824,Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-825,Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-826,Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-827,Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-828,Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-829,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-860,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-861,Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-862,Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-863,Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-864,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0,0,0,0,0,0,0
-865,Drug Reaction,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-866,Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-867,Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-868,Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-869,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0,0,0,0,0,0,0
-980,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-981,Chicken pox,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-982,Chicken pox,itching,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-983,Chicken pox,itching,skin_rash,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-984,Chicken pox,itching,skin_rash,fatigue,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-985,Chicken pox,itching,skin_rash,fatigue,lethargy,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-986,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-987,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-988,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-989,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1190,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-1191,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-1192,Acne,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1193,Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1194,Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1195,Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1196,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-1197,Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1198,Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1199,Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1210,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-1211,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-1212,Psoriasis,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-1213,Psoriasis,skin_rash,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-1214,Psoriasis,skin_rash,joint_pain,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-1215,Psoriasis,skin_rash,joint_pain,skin_peeling,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-1216,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-1217,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,0,0,0,0,0,0,0,0,0,0,0,0
-1218,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-1219,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-1220,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-1221,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-1222,Impetigo,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-1223,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-1224,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-1225,Impetigo,skin_rash,high_fever,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-1226,Impetigo,skin_rash,high_fever,blister,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-1227,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,0,0,0,0,0,0,0,0,0,0,0,0,0
-1228,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-1229,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-1230,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-1231,Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1232,Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1233,Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1234,Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1235,Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1236,Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1237,Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1238,Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1239,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-1270,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-1271,Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-1272,Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-1273,Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-1274,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0,0,0,0,0,0,0
-1275,Drug Reaction,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-1276,Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-1277,Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-1278,Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-1279,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0,0,0,0,0,0,0
-1390,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-1391,Chicken pox,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1392,Chicken pox,itching,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1393,Chicken pox,itching,skin_rash,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1394,Chicken pox,itching,skin_rash,fatigue,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1395,Chicken pox,itching,skin_rash,fatigue,lethargy,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1396,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1397,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1398,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1399,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1600,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-1601,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-1602,Acne,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1603,Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1604,Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1605,Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1606,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-1607,Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1608,Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1609,Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1620,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-1621,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-1622,Psoriasis,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-1623,Psoriasis,skin_rash,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-1624,Psoriasis,skin_rash,joint_pain,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-1625,Psoriasis,skin_rash,joint_pain,skin_peeling,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-1626,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-1627,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,0,0,0,0,0,0,0,0,0,0,0,0
-1628,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-1629,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-1630,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-1631,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-1632,Impetigo,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-1633,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-1634,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-1635,Impetigo,skin_rash,high_fever,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-1636,Impetigo,skin_rash,high_fever,blister,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-1637,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,0,0,0,0,0,0,0,0,0,0,0,0,0
-1638,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-1639,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-1640,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-1641,Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1642,Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1643,Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1644,Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1645,Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1646,Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1647,Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1648,Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1649,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-1680,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-1681,Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-1682,Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-1683,Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-1684,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0,0,0,0,0,0,0
-1685,Drug Reaction,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-1686,Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-1687,Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-1688,Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-1689,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0,0,0,0,0,0,0
-1800,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-1801,Chicken pox,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1802,Chicken pox,itching,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1803,Chicken pox,itching,skin_rash,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1804,Chicken pox,itching,skin_rash,fatigue,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1805,Chicken pox,itching,skin_rash,fatigue,lethargy,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1806,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1807,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1808,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-1809,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,malaise,red_spots_over_body,0,0,0,0,0,0,0
-2010,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2011,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2012,Acne,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2013,Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2014,Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2015,Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2017,Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2018,Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2019,Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2030,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2031,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2032,Psoriasis,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-2033,Psoriasis,skin_rash,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-2034,Psoriasis,skin_rash,joint_pain,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-2035,Psoriasis,skin_rash,joint_pain,skin_peeling,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-2036,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-2037,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,0,0,0,0,0,0,0,0,0,0,0,0
-2038,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2039,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2040,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2041,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2042,Impetigo,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-2043,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-2044,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-2045,Impetigo,skin_rash,high_fever,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-2046,Impetigo,skin_rash,high_fever,blister,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-2047,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,0,0,0,0,0,0,0,0,0,0,0,0,0
-2048,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2049,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-2050,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-2051,Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2052,Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2053,Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2054,Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2055,Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2056,Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2057,Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2058,Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2059,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-2090,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-2091,Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-2092,Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-2093,Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-2094,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0,0,0,0,0,0,0
-2095,Drug Reaction,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-2096,Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-2097,Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-2098,Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0,0
-2099,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0,0,0,0,0,0,0
-2210,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-2211,Chicken pox,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-2212,Chicken pox,itching,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-2213,Chicken pox,itching,skin_rash,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-2214,Chicken pox,itching,skin_rash,fatigue,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-2215,Chicken pox,itching,skin_rash,fatigue,lethargy,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-2216,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-2217,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-2218,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0,0
-2219,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,malaise,red_spots_over_body,0,0,0,0,0,0,0
-2420,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2421,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2422,Acne,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2423,Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2424,Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2425,Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2426,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2427,Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2428,Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2429,Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2440,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2441,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2442,Psoriasis,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-2443,Psoriasis,skin_rash,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-2444,Psoriasis,skin_rash,joint_pain,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-2445,Psoriasis,skin_rash,joint_pain,skin_peeling,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-2446,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0,0
-2447,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,0,0,0,0,0,0,0,0,0,0,0,0
-2448,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2449,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2450,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2451,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2452,Impetigo,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-2453,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-2454,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-2455,Impetigo,skin_rash,high_fever,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-2456,Impetigo,skin_rash,high_fever,blister,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-2457,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,0,0,0,0,0,0,0,0,0,0,0,0,0
-2458,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2459,Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0,0
-2460,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-2464,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-2476,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-2497,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2499,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2500,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2501,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-2505,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-2517,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-2538,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2540,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2541,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2542,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-2546,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-2558,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-2579,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2581,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2582,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2583,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-2587,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-2599,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-2620,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2622,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2623,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2624,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-2628,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-2640,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-2661,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2663,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2664,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2665,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-2669,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-2681,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-2702,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2704,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2705,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2706,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-2710,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-2722,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-2743,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2745,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2746,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2747,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-2751,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-2763,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-2784,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2786,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2787,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2788,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-2792,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-2804,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-2825,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2827,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2828,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2829,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-2833,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-2845,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-2866,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2868,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2869,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2870,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-2874,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-2886,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-2907,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2909,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2910,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2911,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-2915,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-2927,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-2948,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2950,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2951,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2952,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-2956,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-2968,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-2989,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-2991,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-2992,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-2993,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-2997,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3009,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3030,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3032,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3033,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3034,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3038,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3050,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3071,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3073,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3074,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3075,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3079,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3091,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3112,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3114,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3115,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3116,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3120,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3132,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3153,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3155,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3156,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3157,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3161,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3173,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3194,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3196,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3197,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3198,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3202,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3214,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3235,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3237,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3238,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3239,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3243,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3255,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3276,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3278,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3279,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3280,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3284,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3296,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3317,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3319,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3320,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3321,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3325,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3337,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3358,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3360,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3361,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3362,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3366,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3378,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3399,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3401,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3402,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3403,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3407,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3419,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3440,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3442,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3443,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3444,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3448,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3460,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3481,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3483,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3484,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3485,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3489,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3501,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3522,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3524,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3525,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3526,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3530,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3542,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3563,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3565,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3566,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3567,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3571,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3583,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3604,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3606,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3607,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3608,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3612,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3624,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3645,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3647,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3648,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3649,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3653,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3665,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3686,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3688,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3689,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3690,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3694,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3706,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3727,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3729,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3730,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3731,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3735,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3747,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3768,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3770,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3771,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3772,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3776,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3788,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3809,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3811,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3812,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3813,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3817,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3829,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3850,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3852,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3853,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3854,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3858,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3870,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3891,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3893,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3894,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3895,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3899,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3911,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3932,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3934,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3935,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3936,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3940,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3952,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-3973,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-3975,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-3976,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-3977,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-3981,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-3993,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4014,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4016,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4017,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4018,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4022,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4034,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4055,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4057,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4058,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4059,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4063,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4075,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4096,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4098,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4099,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4100,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4104,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4116,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4137,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4139,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4140,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4141,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4145,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4157,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4178,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4180,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4181,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4182,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4186,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4198,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4219,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4221,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4222,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4223,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4227,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4239,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4260,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4262,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4263,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4264,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4268,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4280,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4301,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4303,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4304,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4305,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4309,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4321,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4342,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4344,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4345,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4346,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4350,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4362,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4383,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4385,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4386,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4387,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4391,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4403,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4424,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4426,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4427,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4428,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4432,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4444,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4465,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4467,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4468,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4469,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4473,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4485,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4506,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4508,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4509,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4510,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4514,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4526,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4547,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4549,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4550,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4551,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4555,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4567,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4588,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4590,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4591,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4592,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4596,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4608,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4629,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4631,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4632,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4633,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4637,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4649,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4670,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4672,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4673,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4674,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4678,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4690,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4711,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4713,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4714,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4715,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4719,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4731,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4752,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4754,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4755,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4756,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4760,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4772,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4793,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4795,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4796,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4797,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4801,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4813,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4834,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4836,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4837,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4838,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4842,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4854,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4875,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4877,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4878,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
-4879,Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0,0,0,0,0,0
-4883,Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0,0,0,0,0,0
-4895,Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0,0,0,0,0,0
-4916,Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0,0,0,0,0,0
-4918,Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0,0,0,0,0,0
-4919,Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0,0,0,0,0,0
+Disease,Symptom_1,Symptom_2,Symptom_3,Symptom_4,Symptom_5,Symptom_6,Symptom_7,Symptom_8,Symptom_9,Symptom_10,Symptom_11
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0
+Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0
+Drug Reaction,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Chicken pox,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,malaise,red_spots_over_body,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0
+Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0
+Drug Reaction,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Chicken pox,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,malaise,red_spots_over_body,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0
+Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0
+Drug Reaction,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Chicken pox,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,malaise,red_spots_over_body,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0
+Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0
+Drug Reaction,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Chicken pox,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,malaise,red_spots_over_body,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0
+Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0
+Drug Reaction,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Chicken pox,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,malaise,red_spots_over_body,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0
+Fungal infection,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,dischromic _patches,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,0,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0
+Drug Reaction,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,burning_micturition,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,spotting_ urination,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,0,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Chicken pox,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,swelled_lymph_nodes,malaise,red_spots_over_body,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,malaise,red_spots_over_body,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,blackheads,0,0,0,0,0,0,0,0
+Acne,skin_rash,pus_filled_pimples,scurring,0,0,0,0,0,0,0,0
+Acne,skin_rash,blackheads,scurring,0,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,small_dents_in_nails,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,inflammatory_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,yellow_crust_ooze,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,0,0,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Impetigo,skin_rash,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0
+Fungal infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,0,0,0,0,0,0,0
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,0,0,0,0,0,0
+Chicken pox,itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,0,0,0,0,0,0,0
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails,0,0,0,0,0
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,0,0,0,0,0,0

@@ -6,6 +6,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
 from PIL import Image
+from sklearn.preprocessing import LabelEncoder
 import streamlit as st
 
 
@@ -21,13 +22,19 @@ st.image(image, caption='Are you wondering what your skin is telling you?', use_
 
 # Get the data
 df = pd.read_csv('skin_dataframe_with_numbers.csv')
+skindf = pd.read_csv('skin_dataframe_with_text.csv')
 
-# Drop the excess symptom columns
-df.drop(['Symptom_12', 'Symptom_13', 'Symptom_14', 'Symptom_15', 'Symptom_16', 'Symptom_17'], axis=1)
+
+# load a table of the data
+st.subheader('Data Information:')
+st.write('The table below displays the possible array of symptoms any skin disorder may present')
+st.dataframe(skindf)
+
 
 # Split the data
 data = df.iloc[:, 1:].values
 labels = df['Disease'].values
+
 
 # Train and test the data
 x_train, x_test, y_train, y_test = train_test_split(data, labels, shuffle=True, train_size = 0.85)
@@ -48,7 +55,7 @@ def get_symptoms():
     numeric = []
     skin = st.sidebar.multiselect(
         'Skin',
-         ['nodal skin ruptures', 'discolored patches', 'blackheads', 'puss-filled pimples', 'scurring', 'peeling', 'dusting'],
+         ['nodal skin ruptures', 'discolored patches', 'blackheads', 'puss-filled pimples', 'scarring', 'peeling', 'dusting'],
          )
 
     body = st.sidebar.multiselect(
@@ -81,7 +88,7 @@ def get_symptoms():
             numeric.append(124)
         if i == 'puss-filled pimples':
             numeric.append(123)
-        if i == 'scurring':
+        if i == 'scarring':
             numeric.append(125)
         if i == 'peeling':
             numeric.append(126)
@@ -136,7 +143,7 @@ def get_symptoms():
         if m == 'high fever':
             numeric.append(26)
 
-    while len(numeric) < 11:
+    while len(numeric) < 17:
         numeric.append(0)
     print(numeric)
 
@@ -163,7 +170,14 @@ svc_model.fit(x_train, y_train)
 if result:
     preds = svc_model.predict(user_input)
     st.sidebar.write('You probably have:', preds)
+    st.sidebar.write('Accuracy:', str(accuracy_score(y_test, svc_model.predict(x_test))))
 
+
+# Describe the data
+st.write('The possible symptoms:')
+chart = st.bar_chart(skindf.drop('Disease', axis=1))
+st.write('The skin conditions:')
+disease1 = st.bar_chart(skindf.Disease)
 
 
 
