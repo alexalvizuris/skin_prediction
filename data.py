@@ -14,10 +14,10 @@ def data_v():
     skindf = pd.read_csv('skin_dataframe_with_text.csv')
 
     # Describe the data
-    st.write('The possible symptoms:')
-    chart = st.bar_chart(skindf.drop('Disease', axis=1))
     st.write('The skin conditions:')
     disease1 = st.bar_chart(skindf.Disease)
+    st.write('The possible symptoms:')
+    chart = st.bar_chart(skindf.drop('Disease', axis=1))
     st.write('Most frequent symptoms per skin condition:')
     fig_1 = px.density_contour(skindf, x='Symptom_1', y='Disease')
     st.write(fig_1)

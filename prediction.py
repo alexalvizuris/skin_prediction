@@ -119,17 +119,6 @@ def get_symptoms():
 
 def condition():
 
-    # if not result:
-    #     # Title and subtitle
-    #     st.write("""
-    #     # Skin Condition
-    #     Detect which type of skin condition you may have
-    #     """)
-    #
-    #     # Open and display image
-    #     image = Image.open('checking-skin.jpg')
-    #     st.image(image, caption='Are you wondering what your skin is telling you?', use_column_width=True)
-
     # Get the data
     df = pd.read_csv('skin_dataframe_with_numbers.csv')
 
@@ -150,6 +139,7 @@ def condition():
 
     # Store user input into variable
     user_input = get_symptoms()
+
 
     # create submit button for symptoms
     result = st.sidebar.button('submit')
@@ -172,8 +162,8 @@ def condition():
     # if button is selected, write prediction of symptoms
     if result:
         st.write("""
-        # Our predictive model suggests:
-        """)
+            # Our predictive model suggests:
+            """)
         preds = svc_model.predict(user_input)
 
         output_columns = st.beta_columns(2)
