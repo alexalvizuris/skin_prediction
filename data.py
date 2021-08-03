@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 
 
-def app():
+def data_v():
     st.title('Data Visualizations')
 
     # Get the data
