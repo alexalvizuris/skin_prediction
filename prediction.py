@@ -119,6 +119,8 @@ def get_symptoms():
 
 def condition():
 
+    selected = 0
+
     # Get the data
     df = pd.read_csv('skin_dataframe_with_numbers.csv')
 
@@ -139,7 +141,6 @@ def condition():
 
     # Store user input into variable
     user_input = get_symptoms()
-
 
     # create submit button for symptoms
     result = st.sidebar.button('submit')

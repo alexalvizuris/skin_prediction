@@ -21,10 +21,6 @@ verify = True
 
 image = Image.open('touching_face.jpg')
 
-if not verify:
-    st.title('Log In')
-    st.image(image, caption='Are you wondering what your skin is telling you?', use_column_width=True)
-
 optionals = st.sidebar.beta_expander('Log In', False)
 un = optionals.text_input('Username')
 pw = optionals.text_input('Password', type='password')
@@ -42,4 +38,8 @@ if un == admin:
         st.warning('Please input a valid username or password')
 elif un != '':
     st.warning('Please input a valid username or password')
+
+if verify:
+    st.title('Log In')
+    st.image(image, caption='Are you wondering what your skin is telling you?', use_column_width=True)
 
