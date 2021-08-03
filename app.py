@@ -7,6 +7,14 @@ import data
 from multiapp import MultiApp
 from PIL import Image
 
+hide_streamlit_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+
 multi_app = MultiApp()
 admin = 'admin'
 verify = True
@@ -34,3 +42,4 @@ if un == admin:
         st.warning('Please input a valid username or password')
 elif un != '':
     st.warning('Please input a valid username or password')
+
