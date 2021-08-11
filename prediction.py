@@ -12,11 +12,11 @@ import streamlit as st
 
 
 def get_symptoms():
-    selected = []
     numeric = []
     skin = st.sidebar.multiselect(
         'Skin',
-        ['nodal skin ruptures', 'discolored patches', 'blackheads', 'puss-filled pimples', 'scarring', 'peeling',
+        ['nodal skin ruptures', 'discolored patches', 'blackheads', 'puss-filled pimples', 'scarring',
+         'peeling',
          'dusting'],
     )
 
@@ -42,7 +42,7 @@ def get_symptoms():
     )
 
     for i in skin:
-        selected.append(i)
+
         if i == 'nodal skin ruptures':
             numeric.append(3)
         if i == 'discolored patches':
@@ -57,8 +57,9 @@ def get_symptoms():
             numeric.append(126)
         if i == 'dusting':
             numeric.append(127)
+
     for j in body:
-        selected.append(j)
+
         if j == 'joint pain':
             numeric.append(7)
         if j == 'stomach pain':
@@ -74,7 +75,6 @@ def get_symptoms():
         if j == 'lymph nodes':
             numeric.append(48)
     for k in irritation:
-        selected.append(k)
         if k == 'itching':
             numeric.append(1)
         if k == 'rash':
@@ -88,13 +88,11 @@ def get_symptoms():
         if k == 'red spots all over':
             numeric.append(100)
     for l in nails:
-        selected.append(l)
         if l == 'dents in nail':
             numeric.append(128)
         if l == 'inflamed nail':
             numeric.append(129)
     for m in head:
-        selected.append(m)
         if m == 'fatigue':
             numeric.append(15)
         if m == 'lethargy':
@@ -118,9 +116,6 @@ def get_symptoms():
 
 
 def condition():
-
-    selected = 0
-
     # Get the data
     df = pd.read_csv('skin_dataframe_with_numbers.csv')
 
@@ -136,8 +131,8 @@ def condition():
 
     # subheader for sidebar
     st.sidebar.write("""
-    # Symptoms 
-    """)
+            # Symptoms 
+            """)
 
     # Store user input into variable
     user_input = get_symptoms()
@@ -148,9 +143,9 @@ def condition():
     if not result:
         # Title and subtitle
         st.write("""
-        # Skin Condition
-        Detect which type of skin condition you may have
-        """)
+                # Skin Condition
+                Detect which type of skin condition you may have
+                """)
 
         # Open and display image
         image = Image.open('checking-skin.jpg')
@@ -163,13 +158,13 @@ def condition():
     # if button is selected, write prediction of symptoms
     if result:
         st.write("""
-            # Our predictive model suggests:
-            """)
+                # Our predictive model suggests:
+                """)
         preds = svc_model.predict(user_input)
 
         output_columns = st.beta_columns(2)
         output_columns[0].write('You probably have:')
-        output_columns[1].write('Accuracy:')
+        output_columns[1].write('Your accuracy:')
         results = st.beta_columns(2)
         results[0].write(str(preds))
         results[1].write(str(accuracy_score(y_test, svc_model.predict(x_test))))
