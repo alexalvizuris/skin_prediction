@@ -3,7 +3,6 @@ this will contain the code for displaying all the data and visualizations
 """
 import streamlit as st
 import pandas as pd
-from PIL import Image
 import plotly.express as px
 
 
