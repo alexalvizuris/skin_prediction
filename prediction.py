@@ -168,3 +168,4 @@ def condition():
         results = st.columns(2)
         results[0].write(str(preds))
         results[1].write(str(accuracy_score(y_test, svc_model.predict(x_test))))
+
