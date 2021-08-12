@@ -12,18 +12,21 @@ class MultiApp():
     def __init__(self):
         self.apps = []
 
+    # adds pages to navigation menu
     def add_app(self, title, function):
         self.apps.append({
             "title": title,
             "function": function
         })
 
+    # removes pages from the navigation menu
     def remove_app(self, title, function):
         self.apps.remove({
             "title": title,
             "function": function
         })
 
+    # calls the function that is listen by the webpage that is selected
     def run(self):
         select = st.selectbox('Navigation',
                               self.apps,

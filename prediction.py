@@ -10,9 +10,14 @@ from sklearn.svm import SVC
 from PIL import Image
 import streamlit as st
 
-
+"""
+This function takes user input, and encodes that input into numerical format
+Those numbers are then returned as a pandas dataframe.
+"""
 def get_symptoms():
     numeric = []
+
+    # the following variables are the multiselect dropdown controls
     skin = st.sidebar.multiselect(
         'Skin',
         ['nodal skin ruptures', 'discolored patches', 'blackheads', 'puss-filled pimples', 'scarring',
@@ -41,6 +46,7 @@ def get_symptoms():
         ['fatigue', 'lethargy', 'headache', 'mild fever', 'high fever']
     )
 
+    # each menu selection is iterated over and added to a list if it is selected
     for i in skin:
 
         if i == 'nodal skin ruptures':
@@ -59,7 +65,6 @@ def get_symptoms():
             numeric.append(127)
 
     for j in body:
-
         if j == 'joint pain':
             numeric.append(7)
         if j == 'stomach pain':
@@ -74,6 +79,7 @@ def get_symptoms():
             numeric.append(49)
         if j == 'lymph nodes':
             numeric.append(48)
+
     for k in irritation:
         if k == 'itching':
             numeric.append(1)
@@ -87,11 +93,13 @@ def get_symptoms():
             numeric.append(132)
         if k == 'red spots all over':
             numeric.append(100)
-    for l in nails:
-        if l == 'dents in nail':
+
+    for nail in nails:
+        if nail == 'dents in nail':
             numeric.append(128)
-        if l == 'inflamed nail':
+        if nail == 'inflamed nail':
             numeric.append(129)
+
     for m in head:
         if m == 'fatigue':
             numeric.append(15)
@@ -104,17 +112,20 @@ def get_symptoms():
         if m == 'high fever':
             numeric.append(26)
 
+    # if the list is shorter than 17 items, a zero will be added until the list reaches 17 items.
     while len(numeric) < 17:
         numeric.append(0)
     print(numeric)
-
     symp_np = np.array([numeric])
 
     # turn data into dataframe
     symptom_df = pd.DataFrame(symp_np, index=[0])
     return symptom_df
 
-
+"""
+This function creates the testing and training data for the SVC model
+the get_symptoms() method is called here, and a prediction is made when the user presses the 'submit' button
+"""
 def condition():
     # Get the data
     df = pd.read_csv('skin_dataframe_with_numbers.csv')
@@ -140,18 +151,18 @@ def condition():
     # create submit button for symptoms
     result = st.sidebar.button('submit')
 
+    # while the 'submit' button has NOT been selected, the webpage will display an image
     if not result:
         # Title and subtitle
         st.write("""
                 # Skin Condition
                 Detect which type of skin condition you may have
                 """)
-
         # Open and display image
         image = Image.open('checking-skin.jpg')
         st.image(image, caption='Are you wondering what your skin is telling you?', use_column_width=True)
 
-    # # import model
+    # import model
     svc_model = SVC()
     svc_model.fit(x_train, y_train)
 
