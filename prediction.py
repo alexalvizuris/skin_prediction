@@ -162,9 +162,9 @@ def condition():
                 """)
         preds = svc_model.predict(user_input)
 
-        output_columns = st.beta_columns(2)
+        output_columns = st.columns(2)
         output_columns[0].write('You probably have:')
         output_columns[1].write('Your accuracy:')
-        results = st.beta_columns(2)
+        results = st.columns(2)
         results[0].write(str(preds))
         results[1].write(str(accuracy_score(y_test, svc_model.predict(x_test))))

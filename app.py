@@ -21,7 +21,7 @@ verify = True
 
 image = Image.open('touching_face.jpg')
 
-optionals = st.sidebar.beta_expander('Log In', False)
+optionals = st.sidebar.expander('Log In', False)
 un = optionals.text_input('Username')
 pw = optionals.text_input('Password', type='password')
 ver = optionals.checkbox('Check this box to proceed')
